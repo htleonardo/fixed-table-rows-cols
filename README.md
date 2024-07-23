@@ -8,7 +8,7 @@ the fixed header and configurable number of fixed columns.
 
 DEMO:
 =====
-http://meetselva.github.com/fixed-table-rows-cols/
+http://meetselva.github.io/fixed-table-rows-cols/
 
 What is a scrollable table?
 ===========================
